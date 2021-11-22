@@ -1,0 +1,6 @@
+projectKey=ANGULARSEMINARIO
+serverUrl=http://localhost:9000
+serverVersion=9.2.0.49834
+dashboardUrl=http://localhost:9000/dashboard?id=ANGULARSEMINARIO
+ceTaskId=AX1JjVeElM7NRWW7i05v
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX1JjVeElM7NRWW7i05v
